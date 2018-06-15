@@ -4,4 +4,4 @@ security enhancement
 
 speed enhancement
 
-dont load *.js file if it is already loaded, however update according to the selected language.
+~~dont load *.js file if it is already loaded, however update according to the selected language.~~
